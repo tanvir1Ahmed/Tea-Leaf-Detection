@@ -1,0 +1,4 @@
+train: /content/drive/MyDrive/TeaLeafAgeQuality Age-Stratified Tea Leaf Quality Classification Dataset/TeaLeafAgeQuality(Annotated and Augmented)/train
+val: /content/drive/MyDrive/TeaLeafAgeQuality Age-Stratified Tea Leaf Quality Classification Dataset/TeaLeafAgeQuality(Annotated and Augmented)/valid
+nc: 4
+names: ['Catagory A(1-2 days)','Category B(2-4 days)','Category C(4-7 days)','Category D(7+ days, Not for Tea)']
